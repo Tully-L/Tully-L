@@ -8,5 +8,6 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-18181b?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 ![GitHub Snake Animation](https://raw.githubusercontent.com/Tully-L/Tully-L/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Animation Dark](https://raw.githubusercontent.com/Tully-L/Tully-L/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
