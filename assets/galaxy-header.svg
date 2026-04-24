@@ -351,7 +351,7 @@
     <text x="425" y="160" text-anchor="middle" fill="#00d4ff" font-size="14" font-weight="bold" font-family="monospace">L</text>
 
   <!-- 12. Profile text -->
-  <text x="425" y="26" text-anchor="middle" fill="#f1f5f9" font-size="20" font-weight="bold" font-family="sans-serif">tully-L</text>
+  <text x="425" y="26" text-anchor="middle" fill="#f1f5f9" font-size="20" font-weight="bold" font-family="sans-serif">Tully-L</text>
   <text x="425" y="44" text-anchor="middle" fill="#94a3b8" font-size="12" font-family="sans-serif">AI Native &amp; Reading</text>
   <text x="425" y="268" text-anchor="middle" fill="#64748b" font-size="11" font-family="monospace" font-style="italic">&quot;Ship useful things, then iterate fast.&quot;</text>
 </svg>
