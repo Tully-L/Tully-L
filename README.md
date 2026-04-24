@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/galaxy-header.svg?v=4" alt="Galaxy Header" width="100%"/>
+  <img src="./assets/galaxy-header.svg?v=5" alt="Galaxy Header" width="100%"/>
 </p>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
