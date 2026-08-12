@@ -314,6 +314,18 @@
     <line x1="325.1" y1="206.8" x2="309.1" y2="215.1" stroke="#ffb020" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
     <text x="309.1" y="218.1" text-anchor="end" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Pencil</text>
     <text x="309.1" y="218.1" text-anchor="end" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">Pencil</text>
+    <circle cx="362.5" cy="177.2" r="2.5" fill="#a78bfa" opacity="0.85">
+      <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="362.5" y1="177.2" x2="346.0" y2="177.0" stroke="#a78bfa" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
+    <text x="346.0" y="180.0" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Pi</text>
+    <text x="346.0" y="180.0" text-anchor="end" fill="#a78bfa" font-size="9" font-family="monospace" opacity="0.85">Pi</text>
+    <circle cx="576.8" cy="127.3" r="2.5" fill="#00d4ff" opacity="0.85">
+      <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="576.8" y1="127.3" x2="592.0" y2="127.0" stroke="#00d4ff" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
+    <text x="592.0" y="130.0" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">DeepSeek</text>
+    <text x="592.0" y="130.0" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">DeepSeek</text>
 
   <!-- 9. Project stars -->
     <circle cx="623.9" cy="202.4" r="4" fill="#00d4ff" filter="url(#star-glow-1)">
